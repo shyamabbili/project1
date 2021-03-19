@@ -1,12 +1,4 @@
-# project1
-demo project 
-ABBILI. SHYAM SUNDAR
-shyamcd143@gmail.com
-INFORMATION TECHNOLOGY
-# rvr and jc_it
-## rvr and jc_it
-### rvr and jc_it
-#### rvr and jc_it
-##### rvr and jc_it
-###### rvr and jc_it
-####### rvr and jc_it
+# task1
+# abbili. shyam sundar 
+## y19it001
+### shyamcd143@gmail.com
